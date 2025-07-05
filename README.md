@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @duck1t0
-- 👀 I’m interested in beginning my journey as a programmer.
-- 🌱 I’m currently learning degree in programming.
-- 💞️ I’m looking to collaborate on gaming related programming (websites or even the game itself) and to make people's life easier with apps that can help them with their daily tasks.
 - 📫 Contact me through email here: lucasnbalcells@gmail.com
 
 <!---
